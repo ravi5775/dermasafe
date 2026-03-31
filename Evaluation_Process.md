@@ -159,5 +159,3 @@ Used for **model validation**:
 
 ---
 
-# One-Line Explanation
-**“DermaSafe evaluates uploaded images using single-sample inference, while full model performance, fairness, and robustness are measured separately using labeled validation and test datasets.”**
